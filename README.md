@@ -463,5 +463,120 @@ Continuously learning networking fundamentals, Linux, and ethical hacking while 
 </p>
 
 ---
+<!-- ===================================================== -->
+<!--                GITHUB ANALYTICS                       -->
+<!-- ===================================================== -->
 
--->
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEVVOLTX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVVOLTX&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=DEVVOLTX&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=DEVVOLTX&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DEVVOLTX&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DEVVOLTX/DEVVOLTX/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **⚠️ مهم:** الـ Snake Animation مش هيشتغل إلا بعد ما تضيف GitHub Action في المستودع.
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - React.js
+  - Node.js
+  - Cybersecurity
+  - Clean Architecture
+
+building:
+  - Personal Portfolio
+  - Open Source Projects
+  - Modern Web Applications
+
+exploring:
+  - AI Development
+  - DevOps
+  - Cloud Technologies
+
+open_to:
+  - Freelance
+  - Collaboration
+  - Open Source
+  - Internship Opportunities
+```
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="mailto:amrt6509@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DEVVOLTX">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://devvoltx.github.io/AmrEssam/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Code with purpose. Build with passion. Learn without limits."**
+
+</div>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:6C63FF,50:7C3AED,100:4F46E5"/>
+
+</p>
