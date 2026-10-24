@@ -18,7 +18,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=DEVVOLTX&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/DEVVOLTX?style=for-the-badge&color=22D3EE&label=FOLLOWERS"/>
-<img src="https://img.shields.io/badge/Multilingual-7_Languages-22D3EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multilingual-10_Languages-22D3EE?style=for-the-badge"/>
 </p>
 
 ---
@@ -75,9 +75,9 @@
 ---
 
 <p align="center">
-<a href="https://amressam.is-a.dev/"><img src="https://img.shields.io/badge/HIRE_ME-22D3EE?style=for-the-badge"/></a>
-<a href="https://amressam.is-a.dev/"><img src="https://img.shields.io/badge/VIEW_WORK-181717?style=for-the-badge"/></a>
-<a href="https://amressam.is-a.dev/"><img src="https://img.shields.io/badge/DOWNLOAD_CV-22D3EE?style=for-the-badge"/></a>
+<a href="mailto:amrt6509@gmail.com"><img src="https://img.shields.io/badge/HIRE_ME-22D3EE?style=for-the-badge"/></a>
+<a href="https://amressam.is-a.dev/#projects"><img src="https://img.shields.io/badge/VIEW_WORK-181717?style=for-the-badge"/></a>
+<a href="https://amressam.is-a.dev/amr_essam_cv.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_CV-22D3EE?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
