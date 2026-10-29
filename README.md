@@ -33,9 +33,26 @@
 
 <div align="center">
 
-| 5 | 5 | 6 | 8 |
+| 7 | 5 | 6 | 8 |
 |:---:|:---:|:---:|:---:|
 | PROJECTS | CERTIFICATES | LOGOS | CAR POSTERS |
+
+</div>
+
+---
+
+# Featured Projects
+
+<div align="center">
+
+| Project | What it is | Stack | Link |
+|:---|:---|:---|:---:|
+| **HAND PLATFORMER** | A platformer you play with your bare hand, via webcam hand tracking | MediaPipe, Canvas, JavaScript, PWA | [Play](https://amressam.is-a.dev/play/hand-platformer/) |
+| **ZENITH** | A study planner for Egyptian Thanaweya Amma students (tasks, habits, focus timer, stats) | Next.js, TypeScript, Tailwind, PWA, IndexedDB | [Live](https://devvoltx.github.io/ZENITH/) |
+| **AGE CALCULATOR** | Arabic age calculator with Gregorian and Hijri dates | HTML/CSS, JavaScript | [Live](https://devvoltx.github.io/Age-Calculator-v1/) |
+| **SALAH STORE** | Gaming top-up storefront with instant delivery | HTML/CSS, JavaScript | [Live](https://devvoltx.github.io/TR_SALAH_Gaming_Site_v2/) |
+
+[All projects →](https://amressam.is-a.dev/#projects)
 
 </div>
 
@@ -46,10 +63,10 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,cpp,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,python,cpp,bash&theme=dark" />
 
 ### Frontend & Game Dev
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,figma,godot&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,vite,figma,godot&theme=dark" />
 
 ### Backend & Security
 <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,firebase,supabase,linux,kali&theme=dark" />
